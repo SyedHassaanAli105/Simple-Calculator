@@ -1,6 +1,6 @@
 {
   "name": "simple-calculator-in-ts",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A simple calculator with help of typescript,node js,inquirer",
   "main": "index.js",
   "type": "module",

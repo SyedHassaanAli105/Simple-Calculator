@@ -7,7 +7,7 @@ const answer = await inquirer.prompt([
     message: "Select one of opearators to perform action",
     type: "list",
     name: "operator",
-    choices: ["ADDITION", "SUBTRACTION", "MULTIPLICATION", "DIVISON"],
+    choices: ["ADDITION", "SUBTRACTION", "MULTIPLICATION", "DIVISION"],
   },
 ]);
 if (answer.operator === "ADDITION") {
